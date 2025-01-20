@@ -14,7 +14,7 @@ If you would like to collaborate in the near future please send a request to:
 
 - <a href="https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial"  target="_blank">Django Tutorial</a>
 
-- <a href="https://docs.docker.com/reference/dockerfile/#known-issues-run"  target="_blank">Dockerr file reference</a>
+- <a href="https://docs.docker.com/reference/dockerfile/#known-issues-run"  target="_blank">Docker file reference</a>
 
 - <a  href="https://GitHub.com"  target="_blank">GitHub</a>
 
